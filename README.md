@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdrianMaciej
 - 👀 I’m interested in Data Engineering and DevOps
-- 🌱 I’m currently learning Flink, Spark and Go...
 - 📫 Reach me at <a href=https://www.linkedin.com/in/adrianmaciej/>LinkedIn</a>
 
 <!---
